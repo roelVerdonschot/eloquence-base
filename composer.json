@@ -6,6 +6,12 @@
         "issues": "https://github.com/jarektkaczyk/eloquence-base/issues",
         "source": "https://github.com/jarektkaczyk/eloquence-base"
     },
+    "repositories":[
+        {
+            "type": "vcs",
+            "url":  "https://github.com/roelVerdonschot/hookable"
+        }
+    ],
     "keywords": [
         "laravel",
         "eloquent",
